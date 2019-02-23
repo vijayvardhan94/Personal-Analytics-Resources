@@ -1,3 +1,3 @@
 # Personal Analytics and Quantified Self
 
-![](images/Screen Shot 2019-02-23 at 1.10.33 PM.png)
+![](images/Screen%20Shot%202019-02-23%20at%201.10.33%20PM.png)
