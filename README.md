@@ -1,3 +1,3 @@
 # Personal Analytics and Quantified Self
 
-![](Images/filename%20spaces.png)
+![](Images/file%20spaces.png)
