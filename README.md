@@ -6,12 +6,12 @@
 
 ## Contents
 
-- [Websites](#websites)
+- [Websites](#Websites)
 - [Smartphone Applications](#applications-and-platforms)
 - [Wearable Devices](#devices-and-wearables)
 - [Research Papers](#research-and-analysis)
 - [Projects](#open-source-projects)
 
-## Websites and Resources
+## Websites
 
 - [Quantified Self](http://quantifiedself.com/) - Official website.
