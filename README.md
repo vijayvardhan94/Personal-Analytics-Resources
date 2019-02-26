@@ -16,3 +16,4 @@
 ## Websites
 
 - [Quantified Self](http://quantifiedself.com/) - Official website.
+- [Quantified Self Institute](https://qsinstitute.com/)
