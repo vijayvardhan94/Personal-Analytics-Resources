@@ -11,3 +11,7 @@
 - [Wearable Devices](#devices-and-wearables)
 - [Research Papers](#research-and-analysis)
 - [Projects](#open-source-projects)
+
+## Websites and Resources
+
+- [Quantified Self](http://quantifiedself.com/) - Official website.
