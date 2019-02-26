@@ -6,8 +6,8 @@
 
 ## Contents
 
-- [Websites and Resources](#websites-and-resources)
-- [Applications and Platforms](#applications-and-platforms)
-- [Devices and Wearables](#devices-and-wearables)
-- [Research and Data Analysis](#research-and-analysis)
-- [Open Source Projects](#open-source-projects)
+- [Websites](#websites-and-resources)
+- [Smartphone Applications](#applications-and-platforms)
+- [Wearable Devices](#devices-and-wearables)
+- [Research Papers](#research-and-analysis)
+- [Projects](#open-source-projects)
