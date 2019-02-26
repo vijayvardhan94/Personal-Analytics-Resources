@@ -7,6 +7,7 @@
 ## Contents
 
 - [Websites](#Websites)
+- [Articles and Blogs](#articles-and-blogs)
 - [Smartphone Applications](#applications-and-platforms)
 - [Wearable Devices](#devices-and-wearables)
 - [Research Papers](#research-and-analysis)
