@@ -21,6 +21,7 @@
 ## Articles and Blogs
 
 - [Personal Analytics: My story with data](https://medium.com/@shashwatpradhan/personal-analytics-my-story-with-data-609b3469ca02) - Sashwath Pradhan
+- [Manage yourselves better: Personal Analytics comes to the fore](https://www.linkedin.com/pulse/manage-yourselves-better-personal-analytics-comes-fore-chhavi-saluja/)
 
 ##  Smartphone Applications
 
