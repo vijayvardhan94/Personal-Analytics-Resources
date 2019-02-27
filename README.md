@@ -10,6 +10,7 @@
 - [Articles and Blogs](#articles-and-blogs)
 - [Smartphone Applications](#applications-and-platforms)
 - [Wearable Devices](#devices-and-wearables)
+- [Visualization Tools](#visualization-tools)
 - [Research Papers](#research-and-analysis)
 - [Projects](#open-source-projects)
 
