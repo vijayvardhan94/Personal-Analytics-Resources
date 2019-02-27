@@ -21,3 +21,7 @@
 ## Articles and Blogs
 
 - [Personal Analytics: My story with data](https://medium.com/@shashwatpradhan/personal-analytics-my-story-with-data-609b3469ca02) - Sashwath Pradhan
+
+## - Smartphone Applications
+
+- [Hypersoft Omnicontext]https://hypersoft.com/personal_analytics.htm
