@@ -8,7 +8,7 @@
 
 - [Websites](#Websites)
 - [Articles and Blogs](#articles-and-blogs)
-- [Smartphone Applications](#applications-and-platforms)
+- [Smartphone Applications](#smartphone-applications)
 - [Wearable Devices](#devices-and-wearables)
 - [Visualization Tools](#visualization-tools)
 - [Research Papers](#research-and-analysis)
