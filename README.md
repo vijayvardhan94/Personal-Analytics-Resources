@@ -29,3 +29,6 @@
 
 - [Hypersoft Omnicontext](https://hypersoft.com/personal_analytics.htm)
 - [Reporter](http://reporter-app.com/)
+
+## Data Privacy
+- [Data Privacy: Users’ Thoughts on Quantified Self Personal Data](http://oro.open.ac.uk/51558/)
