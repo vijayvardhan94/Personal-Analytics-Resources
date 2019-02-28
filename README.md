@@ -13,6 +13,7 @@
 - [Visualization Tools](#visualization-tools)
 - [Research Papers](#research-and-analysis)
 - [Projects](#open-source-projects)
+- [Data Privacy](#data-privacy)
 
 ## Websites
 
