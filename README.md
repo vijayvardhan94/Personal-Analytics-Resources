@@ -24,7 +24,7 @@
 
 - [Personal Analytics: My story with data](https://medium.com/@shashwatpradhan/personal-analytics-my-story-with-data-609b3469ca02)
 - [Manage yourselves better: Personal Analytics comes to the fore](https://www.linkedin.com/pulse/manage-yourselves-better-personal-analytics-comes-fore-chhavi-saluja/)
-- [Personal Analyrtics gets real](https://www.wired.com/insights/2013/11/love-life-and-r-personal-analytics-gets-real/)
+- [Personal Analytics gets real](https://www.wired.com/insights/2013/11/love-life-and-r-personal-analytics-gets-real/)
 
 ##  Smartphone Applications
 
