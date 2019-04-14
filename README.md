@@ -25,12 +25,15 @@
 - [Personal Analytics: My story with data](https://medium.com/@shashwatpradhan/personal-analytics-my-story-with-data-609b3469ca02)
 - [Manage yourselves better: Personal Analytics comes to the fore](https://www.linkedin.com/pulse/manage-yourselves-better-personal-analytics-comes-fore-chhavi-saluja/)
 - [Personal Analytics gets real](https://www.wired.com/insights/2013/11/love-life-and-r-personal-analytics-gets-real/)
+- [How to Track a Life: Ultimate Guide of Tools, Apps and Techniques for Self-Tracking](http://www.markwk.com/tracking-tools.html)
 
 ##  Smartphone Applications
 
 - [Hypersoft Omnicontext](https://hypersoft.com/personal_analytics.htm)
 - [Reporter](http://reporter-app.com/)
 - [Exist](https://exist.io/)
+- [Gyroscope](https://gyrosco.pe/)
+- 
 
 ## Data Privacy
 - [Data Privacy: Users’ Thoughts on Quantified Self Personal Data](http://oro.open.ac.uk/51558/)
