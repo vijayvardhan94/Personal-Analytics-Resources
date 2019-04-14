@@ -26,6 +26,7 @@
 - [Manage yourselves better: Personal Analytics comes to the fore](https://www.linkedin.com/pulse/manage-yourselves-better-personal-analytics-comes-fore-chhavi-saluja/)
 - [Personal Analytics gets real](https://www.wired.com/insights/2013/11/love-life-and-r-personal-analytics-gets-real/)
 - [How to Track a Life: Ultimate Guide of Tools, Apps and Techniques for Self-Tracking](http://www.markwk.com/tracking-tools.html)
+- [The Beginner’s Guide to Quantified Self](https://technori.com/2018/08/4281-the-beginners-guide-to-quantified-self-plus-a-list-of-the-best-personal-data-tools-out-there/markmoschel/)
 
 ##  Smartphone Applications
 
