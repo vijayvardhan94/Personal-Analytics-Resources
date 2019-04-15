@@ -19,7 +19,8 @@
 
 - [Quantified Self](http://quantifiedself.com/) - Official website.
 - [Quantified Self Institute](https://qsinstitute.com/)
-- [Quantified self sub-reddit](https://www.reddit.com/r/QuantifiedSelf/)
+- [Quantified self sub-reddit](https://www.reddit.com/r/QuantifiedSelf/)\
+- [Quanitified Mind](http://www.quantified-mind.com/about)
 
 ## Articles and Blogs
 
@@ -37,6 +38,7 @@
 - [Gyroscope](https://gyrosco.pe/)
 - [PACO](https://pacoapp.com/)
 - [Flowdash](https://flowdash.co/app/about)
+
 
 ## Research Papers
 - [QUANTIFYING THE QUANTIFIED SELF](https://pdfs.semanticscholar.org/7ccb/e2e99078317a8657a2d362cdeb755b323cf4.pdf)
