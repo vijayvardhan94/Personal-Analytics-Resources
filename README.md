@@ -8,7 +8,7 @@
 
 - [Websites](#Websites)
 - [Articles and Blogs](#articles-and-blogs)
-- [Applications](#smartphone-applications)
+- [Applications](#smartphone-applications-and-websites)
 - [Wearable Devices](#devices-and-wearables)
 - [Visualization Tools](#visualization-tools)
 - [Research Papers](#research-and-analysis)
@@ -31,7 +31,7 @@
 - [How to Track a Life: Ultimate Guide of Tools, Apps and Techniques for Self-Tracking](http://www.markwk.com/tracking-tools.html)
 - [The Beginner’s Guide to Quantified Self](https://technori.com/2018/08/4281-the-beginners-guide-to-quantified-self-plus-a-list-of-the-best-personal-data-tools-out-there/markmoschel/)
 
-##  Smartphone Applications and Websites (Includes Quantified self apps and tools)
+##  Smartphone Applications and Websites
 
 - [Hypersoft Omnicontext](https://hypersoft.com/personal_analytics.htm)
 - [Reporter](http://reporter-app.com/)
