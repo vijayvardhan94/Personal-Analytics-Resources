@@ -36,5 +36,8 @@
 - [Gyroscope](https://gyrosco.pe/)
 - [PACO](https://pacoapp.com/)
 
+## Research Papers
+- [QUANTIFYING THE QUANTIFIED SELF](https://pdfs.semanticscholar.org/7ccb/e2e99078317a8657a2d362cdeb755b323cf4.pdf)
+
 ## Data Privacy
 - [Data Privacy: Users’ Thoughts on Quantified Self Personal Data](http://oro.open.ac.uk/51558/)
