@@ -20,7 +20,7 @@
 - [Quantified Self](http://quantifiedself.com/) - Official website.
 - [Quantified Self Institute](https://qsinstitute.com/)
 - [Quantified self sub-reddit](https://www.reddit.com/r/QuantifiedSelf/)
-- [Quanitified Mind](http://www.quantified-mind.com/about)
+- [Quantified Mind](http://www.quantified-mind.com/about)
 
 ## Articles and Blogs
 
