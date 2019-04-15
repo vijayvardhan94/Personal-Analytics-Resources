@@ -21,6 +21,7 @@
 - [Quantified Self Institute](https://qsinstitute.com/)
 - [Quantified self sub-reddit](https://www.reddit.com/r/QuantifiedSelf/)
 - [Quantified Mind](http://www.quantified-mind.com/about)
+- [Human Benchmark](https://www.humanbenchmark.com)
 
 ## Articles and Blogs
 
