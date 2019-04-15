@@ -12,7 +12,6 @@
 - [Wearable Devices](#devices-and-wearables)
 - [Visualization Tools](#visualization-tools)
 - [Research Papers](#research-papers)
-- [Projects](#open-source-projects)
 - [Data Privacy](#data-privacy)
 
 ## Websites
